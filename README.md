@@ -6,7 +6,6 @@
 
 - 🏢 I'm currently working at **Multibhashi**
 - ⚙️ Tech Stack: `Node`,`Express`, `Adonis`, `Vue`, `React`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `GCP`, `AWS`, `DigitalOcean`,  `Python`, `PHP`, `Laravel`
-- 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **adonis**, **development**, **design thinking**
 - 📙 I'm curretly reading **The Monk Who Sold His Ferrari**

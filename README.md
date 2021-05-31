@@ -7,7 +7,7 @@
 - 🏢 I'm currently working at **Multibhashi**
 - ⚙️ Tech Stack: `Node`,`Express`, `Adonis`, `Vue`, `React`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `GCP`, `AWS`, `DigitalOcean`,  `Python`, `PHP`, `Laravel`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **adonis**, **development**, **design thinking**
+- 💬 Ping me about **development**, **design**, **product**
 - 📙 I'm curretly reading **The Monk Who Sold His Ferrari**
 - 📫 Reach me: [https://www.linkedin.com/in/nirmaljasmatiya](https://www.linkedin.com/in/nirmaljasmatiya)
 - ⚡️ Fun fact: My first line of code was not "Hello World!"

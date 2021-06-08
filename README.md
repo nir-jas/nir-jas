@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Multibhashi**
+- 🏢 I'm currently working at **Powerplay**
 - ⚙️ Tech Stack: `Node`,`Express`, `Adonis`, `Vue`, `React`, `HTML`, `CSS`, `JavaScript`, `TypeScript`, `GCP`, `AWS`, `DigitalOcean`,  `Python`, `PHP`, `Laravel`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **development**, **design**, **product**
